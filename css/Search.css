@@ -1,0 +1,66 @@
+.search-bar {
+  width: 335px;
+  height: 39px;
+  background: #ECECEC;
+  border-radius: 10px;
+  border: 0px;
+  padding: 0px;
+  margin-top: 15px;
+  margin-left: 20px;
+  margin-right: 20px;
+  background-image: url(../../../public/assets/png/search-icon.png);
+  background-position: 300px center;
+  background-repeat: no-repeat;
+}
+
+@media (min-width: 769px) {
+  .search-bar {
+    width: 281px;
+    height: 47px;
+    background-position: 252PX center;
+    margin-right: 70px;
+    margin-left: 2px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: end;
+        -ms-flex-pack: end;
+            justify-content: flex-end;
+  }
+}
+
+.form {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.search-by {
+  display: none;
+}
+
+@media (min-width: 769px) {
+  .search-by {
+    height: 25px;
+    width: 113px;
+    left: 814px;
+    top: 324px;
+    border-radius: nullpx;
+    margin: 0;
+    display: block;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 40px;
+    letter-spacing: 0.01em;
+    color: #888888;
+  }
+}
+/*# sourceMappingURL=Search.css.map */

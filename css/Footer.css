@@ -1,0 +1,41 @@
+.footer {
+  width: 375px;
+  height: 61px;
+}
+
+.small-banner {
+  width: 375px;
+  height: 6px;
+  background-color: #C23F81;
+}
+
+.big-banner {
+  width: 375px;
+  height: 55px;
+  background: #313131;
+}
+
+.copyright {
+  width: 223px;
+  height: 26px;
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 19px;
+  line-height: 26px;
+  color: #FFFFFF;
+  text-align: center;
+  padding-top: 14px;
+  margin-bottom: 15px;
+  margin-left: 75px;
+  margin-right: 77px;
+}
+
+.footer-logo {
+  display: none;
+}
+
+.footer-nav {
+  padding: 0px;
+}
+/*# sourceMappingURL=Footer.css.map */

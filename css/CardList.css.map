@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAGA,AAAA,UAAU,CAAA;EACN,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;CAQzB;;AAPG,MAAM,EAAE,SAAS,EAAE,KAAK;EAH5B,AAAA,UAAU,CAAA;IAIN,WAAW,EAAE,IAAI;IACjB,YAAY,EAAE,IAAI;IAClB,cAAc,EAAE,GAAG;IACnB,eAAe,EAAE,aAAa;IAC9B,SAAS,EAAE,IAAI;GAElB",
+    "sources": [
+        "../challenge-puleio/src/components/CardList/CardList.scss"
+    ],
+    "names": [],
+    "file": "CardList.css"
+}

@@ -1,0 +1,87 @@
+.navbar--img {
+  width: 121.99px;
+  height: 23.18px;
+}
+
+@media (min-width: 769px) {
+  .navbar--img {
+    width: 197.39px;
+    height: 38.7px;
+  }
+}
+
+.navBar--bg {
+  background-color: #FFFFFF;
+}
+
+.login-btn {
+  background-color: #C23F81;
+  width: 81px;
+  height: 37px;
+  border-radius: 8px;
+  color: #FFFFFF;
+  border: 0px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.navbar-toggler {
+  background: #C23F81;
+  width: 30px;
+  height: 26px;
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+}
+
+.navbar {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+@media screen and (max-width: 768px) {
+  .navbar {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+}
+
+.navbar-toggler-icon {
+  width: 30px;
+  height: 26px;
+}
+
+.navbar-expand-lg {
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+@media screen and (min-width: 769px) {
+  .navbar-expand-lg {
+    margin-left: 70px;
+    margin-right: 70px;
+    padding-top: 19px;
+    padding-bottom: 12px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  nav {
+    max-height: 45px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+}
+
+@media screen and (min-width: 769px) {
+  nav {
+    height: 68px;
+  }
+}
+/*# sourceMappingURL=NavBar.css.map */
